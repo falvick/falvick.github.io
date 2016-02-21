@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maciek Madetko</title>
+    <description>Mobile programming stuff</description>
+    <link>http://falvick.github.io//</link>
+    <atom:link href="http://falvick.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 21 Feb 2016 13:40:22 +0100</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2016 13:40:22 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Something will be here...</title>
+        <description>&lt;p&gt;Something new will appear really soon! Please come back!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Feb 2016 11:04:23 +0100</pubDate>
+        <link>http://falvick.github.io//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://falvick.github.io//2016/welcome-to-jekyll/</guid>
+        
+        <category>android</category>
+        
+        <category>mobile</category>
+        
+        
+        <category>android</category>
+        
+      </item>
+    
+  </channel>
+</rss>
